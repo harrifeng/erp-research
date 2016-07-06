@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  status: MyString
+  trade_number: MyString
+  shop_code: MyString
+  customer_code: MyString
+  order_type: MyString
+  sale_type: MyString
+  channel: MyString
+  order_date: 2016-07-06
+  pay_date: 2016-07-06
+
+two:
+  number: MyString
+  status: MyString
+  trade_number: MyString
+  shop_code: MyString
+  customer_code: MyString
+  order_type: MyString
+  sale_type: MyString
+  channel: MyString
+  order_date: 2016-07-06
+  pay_date: 2016-07-06
